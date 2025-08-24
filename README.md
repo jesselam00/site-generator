@@ -1,6 +1,5 @@
 # 🌐 Site Generator
-This site generator takes your markdown files and image files and converts them into an easily hostable static website. 
-Inspired by popular static site generators like Hugo, Jekyll, and Gatsby.
+Inspired by popular static site generators like Hugo, Jekyll, and Gatsby, this site generator takes your markdown files and image files and converts them into an easily hostable static website. 
 
 ## Development
 This site generator transforms:
