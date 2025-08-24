@@ -35,13 +35,7 @@ npm install
 
 ```bash
 # Generate your static site
-npm run generate
-
-# Serve locally for development
-npm run serve
-
-# Build for production
-npm run build
+./main.sh
 ```
 
 ## Project Structure
