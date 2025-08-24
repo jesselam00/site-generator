@@ -1,9 +1,5 @@
 # Site Generator
 
-A custom static site generator built from scratch that transforms raw content files (Markdown and images) into a complete static website with HTML and CSS.
-
-## What Is This?
-
 This site generator takes your content files and converts them into an easily hostable static website.
 
 ### Ideal Use Cases
