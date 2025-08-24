@@ -1,19 +1,10 @@
-# Static Site Generator
+# Site Generator
 
 A custom static site generator built from scratch that transforms raw content files (Markdown and images) into a complete static website with HTML and CSS.
 
 ## What Is This?
 
-This static site generator takes your content files and converts them into a lightning-fast, secure, and easily hostable static website. Static sites are incredibly popular for blogs, portfolios, landing pages, and documentation because they offer excellent performance without the complexity of dynamic backends.
-
-## Static vs. Dynamic Sites
-
-### Static Sites (What This Generates)
-Static sites have **fixed content** that doesn't change based on user interaction. They're perfect when you don't need:
-- File uploads
-- User authentication/login
-- Comment systems
-- User preference saving
+This site generator takes your content files and converts them into an easily hostable static website.
 
 ### Ideal Use Cases
 - **Blogs** - Content-focused websites
@@ -32,7 +23,6 @@ Static sites have **fixed content** that doesn't change based on user interactio
 ## Prerequisites
 
 - Node.js (v14 or higher)
-- Git
 
 ## Installation
 
@@ -121,10 +111,6 @@ Improvements and suggestions are welcome! Please:
 3. Make your changes
 4. Add tests for new features
 5. Submit a pull request
-
-## License
-
-MIT License - see LICENSE file for details
 
 ## Acknowledgments
 
