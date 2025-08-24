@@ -63,10 +63,7 @@ site-generator/
 
 ```bash
 # Run tests
-npm test
-
-# Run tests with coverage
-npm run test:coverage
+./test.sh
 ```
 
 ## Deployment
